@@ -1,5 +1,3 @@
-# custom_post_types WP主题开发教学QQ群： 706173813
-
 /**
 	@package https://developer.wordpress.org/reference/functions/register_post_type/
 	https://developer.wordpress.org/reference/functions/get_post_type_capabilities/
